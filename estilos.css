@@ -1,0 +1,65 @@
+footer{
+	background-image: url("footer.jpg");
+	clear: both;
+}
+
+
+
+
+
+header{
+	
+    background-color: #257B9D;
+}
+
+main{
+    margin-top: -3%;
+	float: right;
+	width: 75%;
+
+}
+
+nav{
+	
+	
+	float: left;
+	width: 15%;
+}
+
+#secundario{
+	background-color: #0F663F;
+}
+
+#secundari{
+  background-color: #0F663F;
+}
+
+#nav{
+	background-color: #0F663F;
+}
+
+#button {
+  
+  padding: 3% 5%;
+  font-size: 64%;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 3%;
+  box-shadow: 0 2% #999;
+}
+
+#button:hover {background-color: #3e8e41}
+
+#button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 1% #666;
+  transform: translateY(1%);
+}
+
+.comentarios{
+	background-color: white;
+}
